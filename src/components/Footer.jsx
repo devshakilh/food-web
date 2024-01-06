@@ -60,7 +60,7 @@ const Footer = () => {
           </div>
         </div>
         
-        <p className="font-sans p-8 text-start md:text-center text-black md:text-lg md:p-4">© 2023 You Company Pti. All rights reserved.</p>
+        <p className="font-sans p-8 text-start md:text-center text-black md:text-lg md:p-4 font-semibold">© 2023 You Company Pti. All rights reserved.</p>
       </div>
 
 
